@@ -1,0 +1,7 @@
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\bin\Debug\veiculo.exe.config
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\bin\Debug\veiculo.exe
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\bin\Debug\veiculo.pdb
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\obj\Debug\carros.csprojAssemblyReference.cache
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\obj\Debug\carros.csproj.CoreCompileInputs.cache
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\obj\Debug\veiculo.exe
+C:\Users\DIAKUBIKUA\source\repos\veiculo\veiculo\obj\Debug\veiculo.pdb
